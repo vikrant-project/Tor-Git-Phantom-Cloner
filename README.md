@@ -69,7 +69,7 @@ The system architecture follows a **Cyclic Proxy Pipeline**:
 
 ### 2. Clone & Launch
 ```bash
-git clone [https://github.com/vikrant-project/Tor-Git-Phantom-Cloner.git](https://github.com/vikrant-project/Tor-Git-Phantom-Cloner.git)
+git clone https://github.com/vikrant-project/Tor-Git-Phantom-Cloner
 cd Tor-Git-Phantom-Cloner
 python3 phantom_cloner.py
 ```
